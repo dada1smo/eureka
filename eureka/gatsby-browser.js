@@ -1,2 +1,2 @@
-//bootstrap
-import "bootstrap/dist/css/bootstrap.css"
+//global styles
+import "./src/styles/global.scss"
